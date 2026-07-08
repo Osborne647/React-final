@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/static/css/main.ba2865f8.css",
-    "main.js": "/static/js/main.cbee13c6.js",
-    "static/js/453.00e560c6.chunk.js": "/static/js/453.00e560c6.chunk.js",
-    "static/media/logo.png": "/static/media/logo.71a158cd083b5c6c9994.png",
-    "static/media/gamingimg.svg": "/static/media/gamingimg.e4971416c36eb55fd14c20fbd6420c4d.svg",
-    "index.html": "/index.html",
-    "main.ba2865f8.css.map": "/static/css/main.ba2865f8.css.map",
-    "main.cbee13c6.js.map": "/static/js/main.cbee13c6.js.map",
-    "453.00e560c6.chunk.js.map": "/static/js/453.00e560c6.chunk.js.map"
+    "main.css": "/Osborne647/React-final/static/css/main.ba2865f8.css",
+    "main.js": "/Osborne647/React-final/static/js/main.d62a8cb0.js",
+    "static/js/453.00e560c6.chunk.js": "/Osborne647/React-final/static/js/453.00e560c6.chunk.js",
+    "static/media/logo.png": "/Osborne647/React-final/static/media/logo.71a158cd083b5c6c9994.png",
+    "static/media/gamingimg.svg": "/Osborne647/React-final/static/media/gamingimg.e4971416c36eb55fd14c20fbd6420c4d.svg",
+    "index.html": "/Osborne647/React-final/index.html",
+    "main.ba2865f8.css.map": "/Osborne647/React-final/static/css/main.ba2865f8.css.map",
+    "main.d62a8cb0.js.map": "/Osborne647/React-final/static/js/main.d62a8cb0.js.map",
+    "453.00e560c6.chunk.js.map": "/Osborne647/React-final/static/js/453.00e560c6.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.ba2865f8.css",
-    "static/js/main.cbee13c6.js"
+    "static/js/main.d62a8cb0.js"
   ]
 }
