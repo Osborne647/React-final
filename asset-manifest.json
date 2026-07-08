@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/Osborne647/React-final/static/css/main.ba2865f8.css",
-    "main.js": "/Osborne647/React-final/static/js/main.60b41a72.js",
-    "static/js/453.00e560c6.chunk.js": "/Osborne647/React-final/static/js/453.00e560c6.chunk.js",
-    "static/media/logo.png": "/Osborne647/React-final/static/media/logo.71a158cd083b5c6c9994.png",
-    "static/media/gamingimg.svg": "/Osborne647/React-final/static/media/gamingimg.e4971416c36eb55fd14c20fbd6420c4d.svg",
-    "index.html": "/Osborne647/React-final/index.html",
-    "main.ba2865f8.css.map": "/Osborne647/React-final/static/css/main.ba2865f8.css.map",
-    "main.60b41a72.js.map": "/Osborne647/React-final/static/js/main.60b41a72.js.map",
-    "453.00e560c6.chunk.js.map": "/Osborne647/React-final/static/js/453.00e560c6.chunk.js.map"
+    "main.css": "/React-final/static/css/main.ba2865f8.css",
+    "main.js": "/React-final/static/js/main.c9d9e3c1.js",
+    "static/js/453.00e560c6.chunk.js": "/React-final/static/js/453.00e560c6.chunk.js",
+    "static/media/logo.png": "/React-final/static/media/logo.71a158cd083b5c6c9994.png",
+    "static/media/gamingimg.svg": "/React-final/static/media/gamingimg.e4971416c36eb55fd14c20fbd6420c4d.svg",
+    "index.html": "/React-final/index.html",
+    "main.ba2865f8.css.map": "/React-final/static/css/main.ba2865f8.css.map",
+    "main.c9d9e3c1.js.map": "/React-final/static/js/main.c9d9e3c1.js.map",
+    "453.00e560c6.chunk.js.map": "/React-final/static/js/453.00e560c6.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.ba2865f8.css",
-    "static/js/main.60b41a72.js"
+    "static/js/main.c9d9e3c1.js"
   ]
 }
