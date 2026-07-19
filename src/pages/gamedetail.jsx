@@ -50,3 +50,5 @@ function GameDetail() {
 }
 
 export default GameDetail;
+
+//MAde by Nick Osborne
